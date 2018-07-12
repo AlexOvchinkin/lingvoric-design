@@ -25,7 +25,7 @@
 // @import "node_modules/bootstrap/scss/tables";
 // @import "node_modules/bootstrap/scss/dropdown";
 // @import "node_modules/bootstrap/scss/button-group";
-// @import "node_modules/bootstrap/scss/input-group";
+@import "node_modules/bootstrap/scss/input-group";
 // @import "node_modules/bootstrap/scss/custom-forms";
 // @import "node_modules/bootstrap/scss/card";
 // @import "node_modules/bootstrap/scss/breadcrumb";
@@ -41,3 +41,11 @@
 // @import "node_modules/bootstrap/scss/popover";
 //@import "node_modules/bootstrap/scss/carousel";
 // @import "node_modules/bootstrap/scss/print";
+
+ /*
+ / custom variables
+*/
+$bg-color-secondary : #ECF0F1;
+$main-text-color    : #2C3E50;
+$sec-text-color     : rgb(66, 83, 99);
+$btn-color          : #D64541;
